@@ -28,3 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 https://www.youtube.com/watch?v=QfvwQEJVOig
 https://angularplayground.it/docs/how-to/sandboxing-components
 https://docs.google.com/presentation/d/11oED-HvlTvwsZ3WpunEOO6to6vogo7LSVcX7mUNSTrA/preview?slide=id.g2c5e42cb22_0_46
+https://docs.google.com/presentation/d/11oED-HvlTvwsZ3WpunEOO6to6vogo7LSVcX7mUNSTrA/preview?slide=id.g2bc9b021d3_0_63
