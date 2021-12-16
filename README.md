@@ -30,3 +30,4 @@ https://angularplayground.it/docs/how-to/sandboxing-components
 https://docs.google.com/presentation/d/11oED-HvlTvwsZ3WpunEOO6to6vogo7LSVcX7mUNSTrA/preview?slide=id.g2c5e42cb22_0_46
 https://docs.google.com/presentation/d/11oED-HvlTvwsZ3WpunEOO6to6vogo7LSVcX7mUNSTrA/preview?slide=id.g2bc9b021d3_0_63
 https://github.com/DanWahlin/Angular-JumpStart
+https://www.youtube.com/watch?v=QfvwQEJVOig
